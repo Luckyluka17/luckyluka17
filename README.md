@@ -12,3 +12,5 @@ CMD Plugins est une invite de commande basé sur Powershell et CMD de Microsoft.
 ### [AUTORUN CREATOR](https://github.com/Luckyluka17/Autorun-Creator)
 About
 Autorun USB Creator est un petit script, vous permettant de créer et de mettre des logos à vos périphériques USB. Le logiciel est simple d'utilisation et fonctionne sur Windows.
+
+Njk3MDc2Mzk4NDQyOTM4Mzk4.XoyA_A.yXBl5DTviFJyUTGhyu43lgG2Vso
