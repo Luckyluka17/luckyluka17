@@ -16,7 +16,7 @@ J'aime beaucoup le côté créatif et innovant de la programmation car cela inci
 ### [CMD Plugins](https://github.com/Luckyluka17/cmd-plugins)
 CMD Plugins est une invite de commande basé sur Powershell et CMD de Microsoft. L'avantage de cette invite de commande est qu'elle possède des commandes customisés, et vous pouvez y installer des plugins pour améliorer le confort et la maniabilité de celle ci.
 
-### AUTORUN CREATOR (Plus disponible, remplacé par Logo4USB)
+### AUTORUN CREATOR (__Plus disponible, remplacé par Logo4USB__)
 Autorun USB Creator est un petit script, vous permettant de créer et de mettre des logos à vos périphériques USB. Le logiciel est simple d'utilisation et fonctionne sur Windows.
 
 ###  Logo4USB
