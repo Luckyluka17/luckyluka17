@@ -16,8 +16,8 @@ J'aime beaucoup le côté créatif et innovant de la programmation car cela inci
 ### [CMD Plugins](https://github.com/Luckyluka17/cmd-plugins)
 CMD Plugins est une invite de commande basé sur Powershell et CMD de Microsoft. L'avantage de cette invite de commande est qu'elle possède des commandes customisés, et vous pouvez y installer des plugins pour améliorer le confort et la maniabilité de celle ci.
 
-### AUTORUN CREATOR (__Plus disponible, remplacé par Logo4USB__)
-Autorun USB Creator est un petit script, vous permettant de créer et de mettre des logos à vos périphériques USB. Le logiciel est simple d'utilisation et fonctionne sur Windows.
+### [MineFPS](https://github.com/Luckyluka17/MineFPS)
+Boostez vos FPS Rapidement et facilement sur minecraft avec MineFPS
 
-###  Logo4USB
+###  [Logo4USB](javascript())
 Une application vous permetant d'ajouter un logo à votre clé USB ou toutt autre appareil de stockage USB.
