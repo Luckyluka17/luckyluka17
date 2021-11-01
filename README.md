@@ -6,6 +6,11 @@ J'aime beaucoup le côté créatif et innovant de la programmation car cela inci
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark)
 
+## 🧪 Languages de programmation maitrisés
+- Batch
+- Python
+- HTML (Un peu)
+
 ## ✨Mes créations
 
 ### [CMD Plugins](https://github.com/Luckyluka17/cmd-plugins)
