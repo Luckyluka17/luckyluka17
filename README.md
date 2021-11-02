@@ -19,5 +19,5 @@ CMD Plugins est une invite de commande basé sur Powershell et CMD de Microsoft.
 ### [MineFPS](https://github.com/Luckyluka17/MineFPS)
 Boostez vos FPS Rapidement et facilement sur minecraft avec MineFPS
 
-###  [Logo4USB](javascript())
+###  [Logo4USB](https://github.com/Luckyluka17/Logo4USB)
 Une application vous permetant d'ajouter un logo à votre clé USB ou toutt autre appareil de stockage USB.
