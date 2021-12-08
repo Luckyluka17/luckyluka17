@@ -4,7 +4,7 @@
 Salut ! Moi c'est Luckyluka17. Je suis développeur / monteur **débutant** ! J'apprends plusieurs languages, tel que le java et le css.
 J'aime beaucoup le côté créatif et innovant de la programmation car cela incite à repérer ces erreurs et à apprendre au fil du temps.
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact" /></p>  <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact" /></p> 
 
 ## 🧪 Languages de programmation maitrisés
 - Batch
