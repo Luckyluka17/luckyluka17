@@ -6,6 +6,9 @@ J'aime beaucoup le côté créatif et innovant de la programmation car cela inci
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact" /></p> 
 
+(Les boutons sont fait par moi-même, si vous voulez les utiliser, merci de me contacter)
+<p class="text-center"><a href="https://discord.gg/QaxHU6NHZe"><img src="https://i.imgur.com/aPZYeEF.png"></a>&nbsp; &nbsp;<a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw"><img src="https://i.imgur.com/Wnarqc7.png"></a>&nbsp; &nbsp;<a href="https://github.com/Luckyluka17"><img src="https://i.imgur.com/zkqH5xG.png"></a>&nbsp; &nbsp;<a href="https://sites.google.com/view/luckyluka17/accueil"><img src="https://i.imgur.com/JcBPSRP.png"></a></p>
+
 ## 🧪 Languages de programmation maitrisés
 - Batch
 - Python
