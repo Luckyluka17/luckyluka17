@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/luckyluka17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+![](https://zupimages.net/up/22/08/ryyh.gif)
 
 ## 👨‍💻Présentation
 Salut ! Moi c'est Luckyluka17. Je suis développeur / monteur **débutant** ! J'apprends plusieurs languages, tel que le java et le css.
