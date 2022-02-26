@@ -11,6 +11,4 @@ J'aime beaucoup le côté créatif et innovant de la programmation car cela inci
 <p class="text-center"><a href="https://discord.gg/QaxHU6NHZe" target="_blank"></a><a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw" target="_blank"></a></p>
 
 ## 🧪 Languages de programmation maitrisés
-- Batch
-- Python
-- HTML (Un peu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
