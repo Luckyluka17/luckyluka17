@@ -26,6 +26,13 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 ### [Logo4USB](https://github.com/Luckyluka17/Logo4USB)
 > Obtenez un logo sur votre clé USB ou tout autre appareil de stockage en USB. Ce logiciel est une alternative a Autorun Creator que j'avais fait il y a plusieurs mois maintenant. Celui ci possède une interface plus facile a utiliser avec un tutoriel.
 
+<h2 align="center">Remerciements</h2>
+
+### [Mathys L.](https://github.com/mathys-l)
+> Il m'a aidé dans pas mal de projets sur Korix (anciennement Hex Studio) et a fait plusieurs bots pour mon serveur.
+
+### [Batch Life](https://github.com/Batchlife)
+> Lui aussi passioné par l'informatique, programme très souvent en Batch. Il m'a aidé sur mon projet CMD Plugins en m'envoyant ses propres plugins.
 
 <h2 align="center">Contact</h2>
 
