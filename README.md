@@ -1,5 +1,5 @@
 
-![](https://zupimages.net/up/22/08/ryyh.gif)
+![](https://i.imgur.com/1qmkRBN.gif)
 <h2 align="center">Présentation</h2>
 Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore faire de petits projets personnels et open-source.
   
