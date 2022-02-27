@@ -30,3 +30,5 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 <h2 align="center">Contact</h2>
 
 Vous souhaitez me contacter ? Contactez moi sur discord [Luckyluka 17#5801](https://discord.com/users/428193377863991296) ou depuis mon [serveur discord](https://discord.gg/YPm459VZsH).
+
+Merci d'avoir lu, à plus tard !
