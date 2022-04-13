@@ -37,7 +37,7 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 
 <h2 align="center">Contact</h2>
 
-<a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296"></a>
+<a align="center" href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296"></a>
 
 Vous souhaitez me contacter ? Contactez moi sur discord [Luckyluka 17#5801](https://discord.com/users/428193377863991296) ou depuis mon [serveur discord](https://discord.gg/YPm459VZsH).
 
