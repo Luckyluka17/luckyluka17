@@ -10,8 +10,10 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 
 ---
 
-<p class="text-center"><a href="https://discord.gg/QaxHU6NHZe"><img src="https://i.imgur.com/aPZYeEF.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw"><img src="https://i.imgur.com/Wnarqc7.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://github.com/Luckyluka17"><img src="https://i.imgur.com/zkqH5xG.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://www.luckyluka17.cf"><img src="https://i.imgur.com/JcBPSRP.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a><br></p>
-<p class="text-center"><a href="https://discord.gg/QaxHU6NHZe" target="_blank"></a><a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw" target="_blank"></a></p>
+<p align="center">
+   <a href="https://discord.gg/QaxHU6NHZe"><img src="https://i.imgur.com/aPZYeEF.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw"><img src="https://i.imgur.com/Wnarqc7.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://github.com/Luckyluka17"><img src="https://i.imgur.com/zkqH5xG.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a>&nbsp; &nbsp;<a href="https://www.luckyluka17.cf"><img src="https://i.imgur.com/JcBPSRP.png" style="cursor: pointer; max-width: 100%; vertical-align: middle; height: auto !important;"></a><br></p>
+  <p class="text-center"><a href="https://discord.gg/QaxHU6NHZe" target="_blank"></a><a href="https://www.youtube.com/channel/UCMDV6fMmzFSq9bB_BSodRiw" target="_blank"></a>
+</p>
 
 <h2 align="center">Projets</h2>
 
@@ -47,7 +49,10 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 
 <h2 align="center">Contact</h2>
 
-<a align="center" href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296"></a>
+<div align="center">
+  <a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296" width="100%" height="30%"></a>
+</div>
+<br/>
 
 Vous souhaitez me contacter ? Contactez moi sur discord [Luckyluka 17#5801](https://discord.com/users/428193377863991296) ou depuis mon [serveur discord](https://discord.gg/YPm459VZsH).
 
