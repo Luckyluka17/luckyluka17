@@ -50,7 +50,7 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 <h2 align="center">Contact</h2>
 
 <div align="center">
-  <a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296" width="100%" height="30%"></a>
+  <a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296?bg=23272E" width="100%" height="30%"></a>
 </div>
 <br/>
 
