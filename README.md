@@ -1,8 +1,20 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuckyluka17&label=Visiteurs&style=flat)
 
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<style>
+  img {
+    border-radius: 5px;
+  }
+</style>
+
 ![](https://i.imgur.com/1qmkRBN.gif)
 <h2 align="center">Présentation</h2>
 Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore faire de petits projets personnels et open-source.
+
+Pour programmer, j'utilise principalement :
+<i class="programming lang-python"></i>
+<i class="programming lang-html"></i>
+<i class="programming lang-css"></i>
   
 ---
 
@@ -50,7 +62,7 @@ Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore f
 <h2 align="center">Contact</h2>
 
 <div align="center">
-  <a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296?bg=23272E&borderRadius=0px&idleMessage=Actuellement, je ne fais rien.&hideDiscrim=true" width="100%" height="30%"></a>
+  <a href="https://discord.com/users/428193377863991296" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/428193377863991296?bg=23272E&borderRadius=0px&idleMessage=💤 Aucune activité en cours&hideDiscrim=true" width="100%" height="30%"></a>
 </div>
 <br/>
 
