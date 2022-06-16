@@ -1,20 +1,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuckyluka17&label=Visiteurs&style=flat)
 
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-<style>
-  img {
-    border-radius: 5px;
-  }
-</style>
 
 ![](https://i.imgur.com/1qmkRBN.gif)
 <h2 align="center">Présentation</h2>
-Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore faire de petits projets personnels et open-source.
-
-Pour programmer, j'utilise principalement :
-<i class="programming lang-python"></i>
-<i class="programming lang-html"></i>
-<i class="programming lang-css"></i>
+<p>Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore faire de petits projets personnels et open-source.</p>
   
 ---
 
