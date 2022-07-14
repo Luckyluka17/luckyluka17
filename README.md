@@ -8,6 +8,7 @@
 ---
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=dark" /></p>
 
 ---
 
