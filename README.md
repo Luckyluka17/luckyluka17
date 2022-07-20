@@ -51,6 +51,6 @@
 </details>
 <details>
   <summary>Langages les plus utilisés</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&style=synthwave"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=synthwave"></p>
 </details>
 
