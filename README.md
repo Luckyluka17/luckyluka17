@@ -16,17 +16,41 @@
 </a>
 </p>
 
-```json
-{
-  "name": "Luckyluka17",
-  "bio": "Salut ! Je suis un étudiant et je suis passionné par l'informatique. J'adore faire de petits projets personnels et open-source."
-}
+```html
+<h1>Luckyluka17</h1>
+<p>Salut, et bienvenue sur ma page Github !</p>
 ```
 
-### Outils que j'utilise
+### Langages & outils
+<p>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" width="32px">
+  </a>
+  <a href="https://python.org/" target="_blank">
+    <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" width="32px">
+  </a>
+  <a href="https://pycord.dev/" target="_blank">
+    <img src="https://pycord.dev/static/img/logo.png?size=128" width="32px">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/windows-logo-png/file-windows-logo-svg-wikipedia-16.png" width="32px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://pngpress.com/wp-content/uploads/2020/04/HTML-logo-300x300.png" width="32px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank">
+    <img src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" width="32px">
+  </a>
+</p>
 
+---
 
-<details align="center">
+<details>
   <summary>Mes statistiques Github</summary>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=synthwave&locale=fr&layout=compact"></p>
 </details>
+<details>
+  <summary>Langages les plus utilisés</summary>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&style=synthwave"></p>
+</details>
+
