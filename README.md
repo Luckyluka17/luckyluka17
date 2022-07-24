@@ -21,27 +21,30 @@
 <p>Salut, et bienvenue sur ma page Github !</p>
 ```
 
-### Langages & outils
-<p>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" width="32px">
-  </a>
-  <a href="https://python.org/" target="_blank">
-    <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" width="32px">
-  </a>
-  <a href="https://pycord.dev/" target="_blank">
-    <img src="https://pycord.dev/static/img/logo.png?size=128" width="32px">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/windows-logo-png/file-windows-logo-svg-wikipedia-16.png" width="32px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://pngpress.com/wp-content/uploads/2020/04/HTML-logo-300x300.png" width="32px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank">
-    <img src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" width="32px">
-  </a>
-</p>
+## Ce que j'utilise 
+### ⌨️ Éditeur de code
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Thème sombre +
+- [VSCode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+### 🖥️ Terminal
+- [Windows Terminal]()
+- Powershell
+### 🎒 Productivité
+- [Windows PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD?hl=fr-in&gl=in)
+- [Gitbook](https://www.gitbook.com/)
+- [Spotify](https://www.spotify.com/fr/)
+### 🛠️ Outils
+- [Brave](https://brave.com/fr/)
+- [Thunderbird](https://www.thunderbird.net/fr/)
+- [KeepassXC](https://keepassxc.org/)
+- [Photofiltre](http://www.photofiltre.com/)
+### 🧪 Langages de programmation
+- Python
+- HTML
+- CSS
+- Batch
+- PHP (en cours d'apprentissage)
+- Ti-basic
 
 ---
 
