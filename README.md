@@ -21,29 +21,11 @@
 <p>Salut, et bienvenue sur ma page Github !</p>
 ```
 
-## Ce que j'utilise 
-### ⌨️ Éditeur de code
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Thème sombre +
-- [VSCode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-### 🖥️ Terminal
-- [Windows Terminal]()
-- Powershell
-### 🎒 Productivité
-- [Windows PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD?hl=fr-in&gl=in)
-- [Gitbook](https://www.gitbook.com/)
-- [Spotify](https://www.spotify.com/fr/)
-### 🛠️ Outils
-- [Brave](https://brave.com/fr/)
-- [Thunderbird](https://www.thunderbird.net/fr/)
-- [KeepassXC](https://keepassxc.org/)
-- [Photofiltre](http://www.photofiltre.com/)
-### 🧪 Langages de programmation
+## 🧪 Langages de programmation
 - Python
 - HTML
 - CSS
 - Batch
-- PHP (en cours d'apprentissage)
 - Ti-basic
 
 ---
