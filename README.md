@@ -27,6 +27,7 @@
 - CSS
 - Batch
 - Ti-basic
+- Golang
 
 ---
 
