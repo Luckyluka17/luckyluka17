@@ -33,10 +33,10 @@
 
 <details>
   <summary>Mes statistiques Github</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=synthwave&locale=fr&layout=compact"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact"></p>
 </details>
 <details>
   <summary>Langages les plus utilisés</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=synthwave"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=dark"></p>
 </details>
 
