@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/63603989/179353810-db46461e-96c2-4508-8221-87fa32c975dc.png" width="50%">
+<img align="center" src="https://user-images.githubusercontent.com/63603989/179353810-db46461e-96c2-4508-8221-87fa32c975dc.png" width="60%">
 <br><br>
 <a href="https://discord.com/users/428193377863991296" target="_blank">
 <img src="files/img/discord.png" width="64px">
