@@ -16,18 +16,18 @@
 </a>
 </p>
 
-```html
-<h1>Luckyluka17</h1>
-<p>Salut, et bienvenue sur ma page Github !</p>
-```
+<p align="center">
+Salut, et bienvenue sur ma page Github !
+</p>
 
 ## 🧪 Langages de programmation
-- Python
-- HTML
-- CSS
-- Batch
-- Ti-basic
-- Golang
+| Langage | Acquis à |
+| --- | --- |
+| Python | 90% |
+| HTML/CSS | 60% |
+| Ti-basic | 90% |
+| Batch | 70% |
+| Golang | 30% |
 
 ---
 
