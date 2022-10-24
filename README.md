@@ -6,13 +6,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/63603989/179353810-db46461e-96c2-4508-8221-87fa32c975dc.png" width="60%">
 <br><br>
 <a href="https://discord.com/users/428193377863991296" target="_blank">
-<img src="files/img/discord.png" width="64px">
+<code><img src="files/img/discord.png" width="64px"></code>
 </a>
 <a href="https://github.com/Luckyluka17" target="_blank">
-<img src="files/img/github.png" width="64px">
+<code><img src="files/img/github.png" width="64px"></code>
 </a>
 <a href="mailto:luckyluka17@hestiaprojects.fr" target="_blank">
-<img src="files/img/mail.png" width="64px">
+<code><img src="files/img/mail.png" width="64px"></code>
 </a>
 </p>
 
