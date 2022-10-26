@@ -1,5 +1,6 @@
-<p align="right">
+<div align="right">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLuckyluka17"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuckyluka17&label=Visiteurs&countColor=%23263759&style=flat" /></a>
+  <a href="https://wakatime.com/@2396d49b-6ea5-49cb-a528-ba685f8c7ae9"><img src="https://wakatime.com/badge/user/2396d49b-6ea5-49cb-a528-ba685f8c7ae9.svg" alt="Total time coded since Oct 26 2022" /></a>
 </p>
 
 <p align="center">
