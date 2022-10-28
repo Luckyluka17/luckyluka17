@@ -23,7 +23,7 @@ Salut, et bienvenue sur ma page Github !
 ## 🧪 Langages de programmation
 | Langage | Acquis à | Mes projets 
 | --- | --- | --- |
-| Python | 90% | [Yuzu Cheats Manager](https://github.com/Luckyluka17/YuzuCheatsManager), [Cubecraft Launcher](https://github.com/Luckyluka17/CubeCraft-Launcher), [Automap](https://github.com/automap-organization) |
+| Python | 90% | [Yuzu Cheats Manager](https://github.com/Luckyluka17/YuzuCheatsManager), [Automap](https://github.com/automap-organization) |
 | HTML/CSS(/JS) | 60% | [Mon site web](https://github.com/Luckyluka17/luckyluka17.github.io), [Rain Relax](https://github.com/Luckyluka17/rain-relax), [Youtube Thumbnail Downloader](https://github.com/Luckyluka17/YouTubeThumbnailDownloader) |
 | Ti-basic | 90% | [Coffee Sim](https://tiplanet.org/forum/archives_voir.php?id=2701529), [Animation Matrix](https://tiplanet.org/forum/archives_voir.php?id=2937710), [Tables de multiplications](https://tiplanet.org/forum/archives_voir.php?id=2948263) |
 | Batch | 70% | [Startup Detector](https://github.com/Luckyluka17/Startup-Detector), [Logo4USB](https://github.com/Luckyluka17/Logo4USB) |
