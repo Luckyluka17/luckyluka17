@@ -1,6 +1,8 @@
 <div align="right">
+  <a href="https://wakatime.com/@2396d49b-6ea5-49cb-a528-ba685f8c7ae9"><img src="https://wakatime.com/badge/user/2396d49b-6ea5-49cb-a528-ba685f8c7ae9.svg" alt="Total time coded since Oct 26 2022" /></a>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLuckyluka17"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuckyluka17&label=Visiteurs&countColor=%23263759&style=flat" /></a>
 </div>
+<br/>
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/63603989/179353810-db46461e-96c2-4508-8221-87fa32c975dc.png" width="60%">
@@ -39,5 +41,3 @@ Salut, et bienvenue sur ma page Github !
   <summary>Langages les plus utilisés</summary>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=dark"></p>
 </details>
-
-### Temps que j'ai consacré pour programmer depuis le 26 octobre 2022 : [![wakatime](https://wakatime.com/badge/user/2396d49b-6ea5-49cb-a528-ba685f8c7ae9.svg)](https://wakatime.com/@2396d49b-6ea5-49cb-a528-ba685f8c7ae9)
