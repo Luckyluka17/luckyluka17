@@ -41,3 +41,7 @@ Salut, et bienvenue sur ma page Github !
   <summary>Langages les plus utilisés</summary>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=dark"></p>
 </details>
+
+---
+
+Les dépôts épinglés ci-dessous sont mes projets actuels. Je vous recommande de voir le dépôt YuzuCheatsManager, surtout si vous utilisez Yuzu pour émuler des yeux Switch.
