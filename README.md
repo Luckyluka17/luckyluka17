@@ -1,5 +1,4 @@
 <div align="right">
-  <a href="https://wakatime.com/@2396d49b-6ea5-49cb-a528-ba685f8c7ae9"><img src="https://wakatime.com/badge/user/2396d49b-6ea5-49cb-a528-ba685f8c7ae9.svg" alt="Total time coded since Oct 26 2022" /></a>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLuckyluka17"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuckyluka17&label=Visiteurs&countColor=%23263759&style=flat" /></a>
 </div>
 <br/>
@@ -44,4 +43,4 @@ Salut, et bienvenue sur ma page Github !
 
 ---
 
-Les dépôts épinglés ci-dessous sont mes projets actuels. Je vous recommande de voir le dépôt YuzuCheatsManager, surtout si vous utilisez Yuzu pour émuler des yeux Switch.
+Les dépôts épinglés ci-dessous sont mes projets actuels.
