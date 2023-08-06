@@ -6,30 +6,3 @@
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/63603989/179353810-db46461e-96c2-4508-8221-87fa32c975dc.png" width="60%">
 </p>
-
-
-<br/><br/><br/>
-
-## 🧪 Langages de programmation utilisés
-| Logo | Langage | Maîtrise | Mes projets 
-| --- | --- | --- | --- |
-| <code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30px"></code> | Python | <img src="files\img\progressbar\py_bar.png"> | [Yuzu Cheats Manager](https://github.com/Luckyluka17/YuzuCheatsManager), [Automap](https://github.com/automap-organization) |
-| <code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30px"></code> | HTML/CSS(/JS) | <img src="files\img\progressbar\web_bar.png">| [Mon site web](https://github.com/Luckyluka17/luckyluka17.github.io), [Rain Relax](https://github.com/Luckyluka17/rain-relax), [Youtube Thumbnail Downloader](https://github.com/Luckyluka17/YouTubeThumbnailDownloader) |
-| <code><img src="https://education.ti.com/-/media/ti/education/images/activities/ti-codes/21172_ticodes_platformlanding_basiccircle.png?rev=ebde8d8f-55cb-4301-bb4b-9e8f7d034277&h=300&w=420&la=en&hash=13D83E746FA545A0BB1FF75DBFB85A991E7D27B9" width="30px"></code> | Ti-basic | <img src="files\img\progressbar\py_bar.png"> | [Coffee Sim](https://tiplanet.org/forum/archives_voir.php?id=2701529), [Animation Matrix](https://tiplanet.org/forum/archives_voir.php?id=2937710), [Tables de multiplications](https://tiplanet.org/forum/archives_voir.php?id=2948263) |
-| <code><img src="https://cdn-icons-png.flaticon.com/512/5558/5558320.png" width="30px"></code> | Batch | <img src="files\img\progressbar\batch_bar.png"> | [Startup Detector](https://github.com/Luckyluka17/Startup-Detector) |
-| <code><img src="https://cdn-icons-png.flaticon.com/512/919/919838.png" width="30px"></code> | Golang | <img src="files\img\progressbar\go_bar.png"> | Aucun projet public |
-
----
-
-<details>
-  <summary>Mes statistiques Github</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=luckyluka17&show_icons=true&theme=dark&locale=fr&layout=compact"></p>
-</details>
-<details>
-  <summary>Langages les plus utilisés</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyluka17&layout=compact&theme=dark"></p>
-</details>
-
----
-
-Les dépôts épinglés ci-dessous sont mes projets actuels.
