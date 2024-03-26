@@ -4,6 +4,12 @@
 
 <!-- <a href="https://zupimages.net/viewer.php?id=24/05/vpfl.gif"><img src="https://zupimages.net/up/24/05/vpfl.gif" alt="" /></a> -->
 
+Projets en cours :
+- DynamicPages
+- homeHub
+- EmuTool (as MultiMod)
+
+
 ## 🗃️ Archives
 
 | Nom du dépôt | Lien | Date de l'archive | Taille de l'archive |
